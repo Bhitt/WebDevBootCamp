@@ -1,7 +1,7 @@
 /*font-family*/
 
 p 	{
-	font-family: Arial;
+	font-family: Raleway;
 }
 
 h1 {
@@ -28,7 +28,7 @@ span {
 /*font-weight*/
 
 p{
-	font-weight: bold;
+	font-weight: normal;
 }
 
 /*line-height*/
