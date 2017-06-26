@@ -69,8 +69,8 @@ function max(){
 	}
 
 	for(i=0;i<mArray.length;i++){
-		if(mArray[i] > highest){
-			highest = mArray[i];
+		if(parseInt(mArray[i]) > highest){
+			highest = parseInt(mArray[i]);
 		}
 	}
 
